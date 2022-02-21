@@ -5,7 +5,7 @@ Add my repository in your project by adding a repositories section in yours proj
     <repositories>
         <repository>
             <id>ratopi.de releases</id>
-            <url>http://ratopi.github.io/maven/releases/</url>
+            <url>https://ratopi.github.io/maven/releases/</url>
             <snapshots>
                 <enabled>false</enabled>
             </snapshots>
